@@ -15,6 +15,8 @@ This library provides some basic arduino cases for **TimerCAM**, including web s
 
 **Camera Interface PinMap**
 
+XCLK frequency:   20000000
+
 | *Interface*             | *Camera Pin*| *TimerCamera*  |
 | :-------------------  | :--------:| :------:  |
 | SCCB Clock            | SIOC     |IO23        |
