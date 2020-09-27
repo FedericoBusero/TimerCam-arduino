@@ -59,7 +59,7 @@ This library provides some basic arduino cases for **TimerCAM**, including web s
 
 **BM8563 Interface**
 
-I2C Address: 0x51
+*I2C Address: 0x51*
 
 | *BM8563*       | *TimerCamera*  |
 | :-------------:| :-----------:  | 
