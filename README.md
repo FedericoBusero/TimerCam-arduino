@@ -62,7 +62,7 @@ XCLK frequency:   20000000
 
 ## Flashing parameters
 *To add the board to your Arduino environment in ESP32 board version 1.0.4: copy boards.txt from https://github.com/espressif/arduino-esp32/blob/master/boards.txt to 
-C:\Users\\<user>\Documents\ArduinoData\packages\esp32\hardware\esp32\1.0.4*
+C:\Users\username\Documents\ArduinoData\packages\esp32\hardware\esp32\1.0.4*
 
 -	Board: ESP32
 -	Upload speed: 1500000, 115200, 250000, 500000, 750000
