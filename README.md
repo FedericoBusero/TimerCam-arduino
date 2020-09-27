@@ -57,6 +57,13 @@ This library provides some basic arduino cases for **TimerCAM**, including web s
 | :-----------:| :------:  | 
 | BAT_ADC_Pin     | IO33     | 
 
+**BM8563 Interface**
+I2C Address: 0x51
+| *BM8563*       | *TimerCamera*  |
+| :-------------:| :-----------:  | 
+| BM8563_SDA_Pin | IO12           | 
+| BM8563_SCL_Pin | IO14           | 
+
 ## Related Link
 
 - **datasheet** 
