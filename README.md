@@ -59,6 +59,17 @@ XCLK frequency:   20000000
 | :-----------:| :------:  | 
 | BAT_ADC_Pin     | IO33     | 
 
+
+## Flashing parameters
+-	Board: ESP32
+-	Upload speed: 1500000, 115200, 250000, 500000, 750000
+-	CPU Speed: 240 MHz (Wifi/BT)
+-	Flash frequency: 80 MHz
+-	Flash mode: QIO
+-	Flash size: 4MB
+-	Partition scheme: huge_app
+-	PSRAM: enabled
+
 ## Related Link
 
 - **datasheet** 
