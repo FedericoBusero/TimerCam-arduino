@@ -62,6 +62,10 @@ This library provides some basic arduino cases for **TimerCAM**, including web s
 | *Button*     | *TimerCamera*  |
 | :-----------:| :------:  | 
 | BAT_BTN_Pin     | IO33?  IO38? IO37?    | 
+BAT_OUTPUT_HOLD_PIN: 33
+BAT_ADC_PIN: 38
+BAT_BTN_PIN: 37
+
 
 ## Related Link
 
