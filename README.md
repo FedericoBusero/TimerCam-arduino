@@ -53,9 +53,10 @@ This library provides some basic arduino cases for **TimerCAM**, including web s
 
 **BAT Interface**
 
-| *BAT*         | *TimerCamera*  |
-| :-----------:| :------:  | 
-| BAT_ADC_Pin     | IO38     | 
+| *BAT*               | *TimerCamera*  |
+| :------------------:| :-----------:  | 
+| BAT_OUTPUT_HOLD_Pin | IO33           | 
+| BAT_ADC_Pin         | IO38           | 
 
 ## Related Link
 
